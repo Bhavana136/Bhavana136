@@ -116,6 +116,6 @@ A comprehensive full-stack web application designed for efficient library operat
 
 ---
 
-- `yourusername` - Your GitHub username
+- `github.com/Bhavana136` - Your GitHub username
 - Social media links (LinkedIn, Twitter, Email, etc.)
 - Repository and demo links for your projects
