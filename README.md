@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E96443,100:904E95&height=220&section=header&text=Bhavana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
+</p>
+
 # Hi there, I'm Bhavana 👋
 
 ## 🚀 About Me
@@ -71,11 +76,11 @@ A comprehensive full-stack web application designed for efficient library operat
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavana136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavana136&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana136&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -83,7 +88,7 @@ A comprehensive full-stack web application designed for efficient library operat
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavana136&theme=tokyo-night&hide_border=true)](https://github.com/Bhavana136)
 
 ---
 
@@ -93,7 +98,7 @@ A comprehensive full-stack web application designed for efficient library operat
 <a href="https://linkedin.com/in/yourprofile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/yourhandle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="mailto:your.email@example.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://github.com/yourusername" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/Bhavana136" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ---
@@ -110,12 +115,15 @@ A comprehensive full-stack web application designed for efficient library operat
   
 ### ⭐ Show some love by starring some repositories!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Bhavana136&color=blueviolet&style=flat)
 
 </div>
 
 ---
 
-- `github.com/Bhavana136` - Your GitHub username
-- Social media links (LinkedIn, Twitter, Email, etc.)
-- Repository and demo links for your projects
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:904E95,100:E96443&height=120&section=footer"/>
+</p>
+
+---
